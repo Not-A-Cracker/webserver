@@ -18,6 +18,7 @@
 #include <sys/stat.h>
 #include <sys/time.h>
 
+#include "../config/config.h"
 #include "blockqueue.h"
 #include "../buffer/buffer.h"
 
